@@ -1,0 +1,23 @@
+mukund-coding-journey/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── projects/
+│   ├── calculator/
+│   │   ├── index.html
+│   │   ├── style.css
+│   │   └── script.js
+│   │
+│   └── portfolio/
+│       ├── index.html
+│       └── style.css
+│
+├── practice/
+│   ├── html/
+│   ├── css/
+│   └── javascript/
+│
+└── notes/
+    └── learning-notes.md
